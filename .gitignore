@@ -1,0 +1,5 @@
+.idea
+.venv
+Images/
+known_faces/
+registered_faces/
